@@ -1,3 +1,17 @@
+![image](https://github.com/bozuna92/VPN-Setup/assets/155588954/81da2d4d-dad3-4ef6-b66c-3927b3c29b60)
+
+
+
+<h2>What is a vpn ?
+
+A vpn is a technology that allows you to create a secure and private connectionto the internet. 
+It encrypts your date, protects your privacy, and can help bypass geographic restrictions.
+
+
+
+
+
+
 # VPN-Setup
 
 Setting up a Vpn inside an azure Virtual machine.
